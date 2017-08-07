@@ -1,0 +1,24 @@
+ BMI160 accelerometer, android.sensor.accelerometer, Bosch
+ BMI160 gyroscope, android.sensor.gyroscope, Bosch
+ BMM150 magnetometer, android.sensor.magnetic_field, Bosch
+ BMP280 pressure, android.sensor.pressure, Bosch
+ BMP280 temperature, com.google.sensor.internal_temperature, Bosch
+ RPR0521 Proximity Sensor, android.sensor.proximity, Rohm
+ RPR0521 Light Sensor, android.sensor.light, Rohm
+ Orientation, android.sensor.orientation, Google
+ BMI160 Step detector, android.sensor.step_detector, Bosch
+ Significant motion, android.sensor.significant_motion, Google
+ Gravity, android.sensor.gravity, Google
+ Linear Acceleration, android.sensor.linear_acceleration, Google
+ Rotation Vector, android.sensor.rotation_vector, Google
+ Geomagnetic Rotation Vector, android.sensor.geomagnetic_rotation_vector, Google
+ Game Rotation Vector, android.sensor.game_rotation_vector, Google
+ Pickup Gesture, android.sensor.pick_up_gesture, Google
+ Tilt Detector, android.sensor.tilt_detector, Google
+ BMI160 Step counter, android.sensor.step_counter, Bosch
+ BMM150 magnetometer (uncalibrated), android.sensor.magnetic_field_uncalibrated, Bosch
+ BMI160 gyroscope (uncalibrated), android.sensor.gyroscope_uncalibrated, Bosch
+ Sensors Sync, com.google.sensor.sync, Google
+ Double Twist, com.google.sensor.double_twist, Google
+ Double Tap, com.google.sensor.double_tap, Google
+ Device Orientation, android.sensor.device_orientation, Google

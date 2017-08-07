@@ -1,0 +1,3 @@
+BMA254 Acceleration Sensor, android.sensor.accelerometer, Bosch Sensortec
+CM36672P Proximity Sensor, android.sensor.proximity, Capella Microsystems, Inc.
+Screen Orientation Sensor, , Samsung Electronics
